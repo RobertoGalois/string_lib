@@ -81,7 +81,7 @@ char*   ft_strchr(char *p_string, char p_char)
 
 int     main(void)
 {
-        int     nb_friends = 480;
+        int     nb_friends = 894;
         char    string1[500] = "coucou tout le monde!";
 
         sprintf(string1, "Je viens vous dire bonjour tous les %d amis !\n", nb_friends);
